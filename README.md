@@ -6,5 +6,3 @@
 * [Decorater Pattern](DecoraterPattern/README.md)
 * [Observer Pattern](ObserverPattern/README.md)
 * [Factory Pattern](FactoryPattern/README.md)
-
-## Principles
